@@ -11,7 +11,6 @@ python preprocess.py prepare --dname men
 python preprocess.py prepare --dname game
 ```
 
-
 Run the code: 
 
 ```bash
